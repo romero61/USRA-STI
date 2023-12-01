@@ -61,9 +61,10 @@ Local vs. Colab: Running the notebook locally requires setting up a Python envir
 GitHub Repository: The repository is a source for all the necessary files and often includes instructions or documentation on how to use them. Always check for a README.md file for specific instructions related to the repository.
 
 # References
-pending
-
+[pending
+](https://disc.gsfc.nasa.gov/information/mission-project?title=HAQAST:%20Global%20Daily%20PM2.5)
 For assistance please feel free to reach out: [Guillermo Romero](https://github.com/romero61)
 
-# License
+#
+License
 This project is licensed under the MIT License - see the LICENSE.md file for details
