@@ -5,6 +5,7 @@ A web app version can be found on:
 
 <a href="https://huggingface.co/spaces/romero61/USRA-STI"><img src="https://raw.githubusercontent.com/romero61/romero61.github.io/main/img/hf-logo.png" alt="HF Logo" style="width: 125px;" /></a>
 
+# TOC
 - [Understanding the Repository Contents](#understanding-the-repository-contents)
 - [Using the Jupyter Notebook Locally](#using-the-jupyter-notebook-locally)
 - [Using the Jupyter Notebook with Google Colab](#using-the-jupyter-notebook-with-google-colab)
