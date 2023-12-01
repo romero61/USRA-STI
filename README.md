@@ -1,7 +1,7 @@
 # USRA-STI
 Providing a Keras CNN machine learning approach to estimate P.M. 2.5 levels, utilizing Google Earth Engine's MERRA-2 Data
 
-A web app version can be found on: <a href="https://huggingface.co/romero61"><img src="https://raw.githubusercontent.com/romero61/romero61.github.io/main/img/hf-logo.png" alt="HF Logo" style="width: 125px;" /></a>
+A web app version can be found on: <a href="https://huggingface.co/spaces/romero61/USRA-STI"><img src="https://raw.githubusercontent.com/romero61/romero61.github.io/main/img/hf-logo.png" alt="HF Logo" style="width: 125px;" /></a>
 
 - [Understanding the Repository Contents](#understanding-the-repository-contents)
 - [Using the Jupyter Notebook Locally](#using-the-jupyter-notebook-locally)
