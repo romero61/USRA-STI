@@ -8,7 +8,7 @@ Providing a Keras CNN machine learning approach to estimate P.M.
 A web app version can be found on:
 
 <a href="https://huggingface.co/spaces/romero61/USRA-STI"><img src="https://raw.githubusercontent.com/romero61/romero61.github.io/main/img/hf-logo.png" alt="HF Logo" style="width: 125px;"/></a>
-[![](README_files\header.png)](https://romero61-usra-sti.hf.space)
+[[!](README_files\header.png)](https://romero61-usra-sti.hf.space)
 
 # TOC
 
